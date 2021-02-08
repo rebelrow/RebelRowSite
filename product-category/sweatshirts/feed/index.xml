@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sweatshirts &#8211; Rebel Row</title>
+	<atom:link href="https://rebelrow.github.io/RebelRowSite/product-category/sweatshirts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rebelrow.github.io/RebelRowSite/</link>
+	<description>Stay Safe While Being Stylish</description>
+	<lastBuildDate>Sun, 24 Jan 2021 20:13:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+
+<image>
+	<url>https://rebelrow.github.io/RebelRowSite/wp-content/uploads/2021/02/Rebel-Row3-100x100.png</url>
+	<title>Sweatshirts &#8211; Rebel Row</title>
+	<link>https://rebelrow.github.io/RebelRowSite/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Crew Neck Tie Dye Sweatshirt</title>
+		<link>https://rebelrow.github.io/RebelRowSite/product/crew-neck-tie-dye-sweatshirt/</link>
+					<comments>https://rebelrow.github.io/RebelRowSite/product/crew-neck-tie-dye-sweatshirt/#respond</comments>
+		
+		<dc:creator><![CDATA[rebelrow]]></dc:creator>
+		<pubDate>Sun, 24 Jan 2021 20:12:48 +0000</pubDate>
+				<guid isPermaLink="false">http://rebelrow.test/?post_type=product&#038;p=1108</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rebelrow.github.io/RebelRowSite/product/crew-neck-tie-dye-sweatshirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hoodie Tie Dye Sweatshirt</title>
+		<link>https://rebelrow.github.io/RebelRowSite/product/hoodie-tie-dye-sweatshirt/</link>
+					<comments>https://rebelrow.github.io/RebelRowSite/product/hoodie-tie-dye-sweatshirt/#respond</comments>
+		
+		<dc:creator><![CDATA[rebelrow]]></dc:creator>
+		<pubDate>Sun, 24 Jan 2021 20:01:47 +0000</pubDate>
+				<guid isPermaLink="false">http://rebelrow.test/?post_type=product&#038;p=1103</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rebelrow.github.io/RebelRowSite/product/hoodie-tie-dye-sweatshirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hoodie Tie Dye Sweatshirt &#8211; 2 Colors</title>
+		<link>https://rebelrow.github.io/RebelRowSite/product/hoodie-tie-dye-sweatshirt-2-colors/</link>
+					<comments>https://rebelrow.github.io/RebelRowSite/product/hoodie-tie-dye-sweatshirt-2-colors/#respond</comments>
+		
+		<dc:creator><![CDATA[rebelrow]]></dc:creator>
+		<pubDate>Sun, 24 Jan 2021 19:41:03 +0000</pubDate>
+				<guid isPermaLink="false">http://rebelrow.test/?post_type=product&#038;p=1099</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rebelrow.github.io/RebelRowSite/product/hoodie-tie-dye-sweatshirt-2-colors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kids Tie Dye Sweatshirt</title>
+		<link>https://rebelrow.github.io/RebelRowSite/product/kids-tie-dye-sweatshirt/</link>
+					<comments>https://rebelrow.github.io/RebelRowSite/product/kids-tie-dye-sweatshirt/#respond</comments>
+		
+		<dc:creator><![CDATA[rebelrow]]></dc:creator>
+		<pubDate>Sun, 24 Jan 2021 19:12:21 +0000</pubDate>
+				<guid isPermaLink="false">http://rebelrow.test/?post_type=product&#038;p=1095</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rebelrow.github.io/RebelRowSite/product/kids-tie-dye-sweatshirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
